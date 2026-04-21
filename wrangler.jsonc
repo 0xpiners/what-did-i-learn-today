@@ -9,5 +9,13 @@
 	"upload_source_maps": true,
 	"compatibility_flags": [
 		"nodejs_compat"
+	],
+	"d1_databases": [
+		{
+			"binding": "what_i_learned_db",
+			"database_name": "what-i-learned-db",
+			"database_id": "fef3e6d3-0fb6-420f-b6e4-048707e3f052",
+			"remote": true
+		}
 	]
 }
